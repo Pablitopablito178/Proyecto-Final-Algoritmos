@@ -1,2 +1,2 @@
 # Proyecto-Final-Algoritmos
-Juego de simulación en C++ donde el jugador, como capitán de una nave espacial, debe sobrevivir administrando recursos, reparando la nave y enfrentando eventos aleatorios durante su travesía galáctica.
+Un juego de simulación desarrollado en C++, donde encarnas a un capitán espacial que debe sobrevivir en el vacío del espacio, tomando decisiones estratégicas cada día para mantener con vida a su tripulación y su nave.
